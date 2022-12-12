@@ -1,0 +1,127 @@
+body {
+  margin: 0%;
+}
+
+#indice amazon {
+  display: inline;
+}
+#indice amazon li {
+  float: left;
+  list-style: none;
+  padding-left: 2em;
+}
+li a {
+  color: white;
+}
+#indice {
+  background-color: #374858;
+  padding-top: 0.3em;
+  padding-bottom: 0.3em;
+}
+
+main {
+  margin-left: 2.5em;
+  margin-right: 2.5em;
+}
+
+
+#holiday {
+  background-image: url(bg-image.png);
+  padding-bottom: 4em;
+}
+
+#holiday h2 {
+  text-align: center;
+  color: white;
+  padding-top: 3em;
+}
+#holiday p {
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+  padding-bottom: 1em;
+}
+
+#display {
+  background-color: white;
+  padding: 0.5em;
+}
+#gift{
+  display: inline-block;
+  margin: 0.9em;
+  padding-top: 10em;
+}
+
+
+.class {
+  width: 250px;
+  height: 250px;
+  display: inline-block;
+  margin: 0.9em;
+  border-radius: 16% 16% 16% 16% / 10% 10% 10% 10%;
+  box-shadow: 5.5px 8.5px 5.5px 2px #dddddd;
+}
+#ipad {
+  background-image: url(img_1.jpg);
+  background-position: center;
+  background-size: cover;
+  }
+
+  #divimg {
+    text-align: start;
+    display: flex;
+    background-color: #222f3f;
+    padding-left: 2em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+  }
+  #parolearancioni {
+    background-color: #f56600;
+    color: white;
+    background-size: cover;
+    text-align: center;
+    padding-top: 0.2em;
+  }
+  #parole arancioni h1 {
+    font-size: medium;
+    font-weight: lighter;
+    padding-bottom: 0.3em;
+  }
+
+#pc{
+  background-image: url(img_2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+#orologio{
+  background-image: url(img_3.jpg);
+  background-position: center;
+  background-size: cover;
+}
+#cani{
+  background-image: url(img_4.jpg);
+  background-position: center;
+  background-size: cover;
+}
+#photo9 {
+  object-fit: cover;
+  text-align: center;
+  padding-bottom: 0%;
+}
+p a {
+  padding-left: 1em;
+  color: #2f6d5e;
+  font-weight: bolder;
+}
+#song {
+  object-fit: cover;
+  text-align: center;
+}
+footer {
+  text-align: center;
+  padding: 50px;
+  background-color: #222f3f;
+}
+footer img {
+  height: 50px;
+}
